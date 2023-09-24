@@ -1,0 +1,439 @@
+div.d1{
+position: relative;
+width: 100%;
+height: 15%;
+
+
+
+}
+
+div.a1{
+
+position: absolute;
+width: 10%;
+height: 40%;
+
+margin-left: 10%;
+
+
+
+}
+
+div.a2{
+
+    position: absolute;
+    width: 10%;
+    height: 35%;
+
+    margin-left: 40%;
+    
+    
+    
+    }
+
+
+    div.a3{
+
+        position: absolute;
+        width: 10%;
+        height: 35%;
+    
+        margin-left: 70%;
+        
+        
+        
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: white;
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          li a:hover:not(.active) {
+            background-color: #04AA6D;
+          }
+          
+          .active {
+            background-color: #04AA6D;
+          }
+
+div.d2{
+width: 100%;
+height: 78%;
+
+
+
+
+
+
+
+}
+
+div.d3{
+    position: relative;
+    width: 100%;
+    height: 70%;
+    
+    
+    
+    }
+
+    div.s1{
+        position: absolute;
+        width: 30%;
+        height: 100%;
+        margin-left: 10%;
+        background-image: url(https://media.discordapp.net/attachments/1135563009301938362/1140433951287148675/about.jpg?width=470&height=470);
+        
+        
+        
+        
+        
+        }
+
+     div.s2 {
+            position: absolute;
+            width: 50%;
+            height: 30%;
+            margin-left: 45%;
+        }
+
+        div.s3 {
+            position: absolute;
+            width: 50%;
+            height: 40%;
+            margin-left: 45%;
+background-color: #F3F3F3;
+            margin-top: 12%;
+        }
+
+
+        .button {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+          margin-left: 2%;
+          }
+          
+          
+          .button2 {padding: 12px 120px;}
+          .button3 {padding: 12px 120px;}
+ 
+          div.d4{
+            position: relative;
+            width: 100%;
+            height: 70%;
+            
+            
+            
+            }
+
+
+
+div.f1{
+
+position: absolute;
+width: 30%;
+height: 70%;
+    margin-left: 15%;            
+            }
+
+
+
+            table.t1 {
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 100%;
+                height: 20%;
+                 margin-left: 10%;
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+
+
+              table.t2 {
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 100%;
+                height: 20%;
+                 margin-left: 10%;
+                 margin-top: 3%;
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+              table.t3 {
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 100%;
+                height: 20%;
+                 margin-left: 10%;
+                 margin-top: 3%;
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+
+
+              table.t4 {
+              
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 30%;
+                height: 20%;
+                 margin-left: 55%;
+                 
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+
+              table.t5 {
+              
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 30%;
+                height: 20%;
+                 margin-left: 55%;
+                 margin-top: 1%;
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+
+              table.t6 {
+              
+                border: 3px solid #ccc;
+                border-collapse: collapse;
+                width: 30%;
+                height: 20%;
+                 margin-left: 55%;
+                 margin-top: 1%;
+                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
+            
+              td {
+                border: 3px solid #ccc;
+                text-align: left;
+                padding: 10px;
+                
+                color: black;
+              }
+
+              div.d5{
+                position: relative;
+                width: 100%;
+                height: 100%;
+                
+                
+                
+                }
+
+
+
+                div.gallery {
+                    
+                    border: 1px solid #ccc;
+                  }
+                  
+                  div.gallery:hover {
+                    border: 1px solid #777;
+                  }
+                  
+                  div.gallery img {
+                    margin-left: 15%;
+                    width: 50%;
+                    height: 60%;
+                  }
+                  
+                  div.desc {
+                    padding: 15px;
+                    text-align: center;
+                  }
+                  
+                  * {
+                    box-sizing: border-box;
+                  }
+                  
+                  .responsive {
+                    padding: 0 6px;
+                    float: left;
+                    width: 24.99999%;
+                  }
+                  
+                  @media only screen and (max-width: 700px) {
+                    .responsive {
+                      width: 49.99999%;
+                      margin: 6px 0;
+                    }
+                  }
+                  
+                  @media only screen and (max-width: 500px) {
+                    .responsive {
+                      width: 100%;
+                    }
+                  }
+                  
+                  .clearfix:after {
+                    content: "";
+                    display: table;
+                    clear: both;
+                  }
+
+
+
+                  div.d6{
+                    position: relative;
+                    width: 100%;
+                    height: 45%;
+                    margin-top: 5%;
+                    
+                    
+                    }
+                
+                    div.gallery2 {
+                    
+                        border: 1px solid #ccc;
+                      }
+                      
+                      div.gallery:hover {
+                        border: 1px solid #777;
+                      }
+                      
+                      div.gallery img {
+                       
+                        
+                      }
+                      
+                      div.desc {
+                        padding: 15px;
+                        text-align: center;
+                      }
+                      
+                      * {
+                        box-sizing: border-box;
+                      }
+                      
+                      .responsive {
+                        padding: 0 6px;
+                        float: left;
+                        width: 24.99999%;
+                      }
+                      
+                      @media only screen and (max-width: 700px) {
+                        .responsive {
+                          width: 49.99999%;
+                          margin: 6px 0;
+                        }
+                      }
+                      
+                      @media only screen and (max-width: 500px) {
+                        .responsive {
+                          width: 100%;
+                        }
+                      }
+                      
+                      .clearfix:after {
+                        content: "";
+                        display: table;
+                        clear: both;
+                      }
+
+
+
+                      div.d7{
+                        position: relative;
+                        width: 100%;
+                        height: 65%;
+                        margin-top: 5%;
+                        
+                        
+                        }
+
+                        div.e1{
+                         position: absolute;
+                           width: 40%;
+                           height: 60%;
+                            margin-left: 43%;
+                            margin-top: 5%;
+                            background-color: white;
+                            color: #000;
+                            text-align: center;
+                            }
+
+
+                            div.d8{
+                                position: relative;
+                                width: 100%;
+                                height: 30%;
+                                
+                                
+                                
+                                }
+
+                            div.d9{
+
+                                position: absolute;
+                                width: 30%;
+                                height: 30%;
+                                    margin-left: 15%;      
+                                        
+                                            }
+
